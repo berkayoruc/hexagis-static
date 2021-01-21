@@ -1,4 +1,8 @@
 $bg: red;
 body {
-  background-color: $bg;
+  // background-color: $bg;
+  background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%);
+}
+#mapid{
+  height: 100%;
 }
